@@ -1,46 +1,11 @@
-# Hi 👋 I'm Prachi Dhakate
-
-🎓 Computer Science Student  
-💻 Python Full Stack Intern  
-🤖 Interested in Artificial Intelligence & Machine Learning  
-🚀 Currently learning AI, Computer Vision and Backend Development  
-
----
-
-## 🛠️ Skills
-- Python
-- Java
-- HTML & CSS
-- SQL
-- Tkinter
-- Graphviz
-- Artificial Intelligence
-- Machine Learning (Basics)
-
----
-
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=PrachiDhakate02&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrachiDhakate02&show_icons=true&theme=tokyonight)
 
-![](https://nirzak-streak-stats.vercel.app/?user=PrachiDhakate02&theme=dark&hide_border=false)
+## 🔥 GitHub Streak
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrachiDhakate02&theme=dark&hide_border=false&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=PrachiDhakate02&theme=tokyonight)
 
----
+## 💻 Most Used Languages
 
-## 📌 Current Focus
-- Artificial Intelligence
-- Computer Vision
-- Python Projects
-- Open Source Contribution
-
----
-
-## 📫 Connect With Me
-- GitHub: https://github.com/PrachiDhakate02
-- LinkedIn: Add your LinkedIn here
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=PrachiDhakate02&icon=0&color=0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrachiDhakate02&layout=compact&theme=tokyonight)
